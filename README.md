@@ -2,7 +2,7 @@ Olá rede!!
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=DavidCostaMariano&label=Profile%20views&color=0e75b6&style=flat" alt = "DavidCostaMariano" /> </p>
 
 ### Olá, seja bem vindo 👋
-Meu nome é David, sou um desenvolvedor FullStack em construção.
+Meu nome é David, sou um desenvolvedor back-end.
 
 ### Linguagens e Ferramentas ✔
 <p> 
