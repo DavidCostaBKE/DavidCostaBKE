@@ -37,5 +37,4 @@ Meu nome é David, sou um desenvolvedor back-end.
 	
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidCostaMariano&hide=php&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-	
-![Estatísticas do Github do David](https://github-readme-stats.vercel.app/api?username=DavidCostaMariano&show_icons=true&theme=radical&hide=prs,issues,contribs)
+
